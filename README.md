@@ -1,4 +1,4 @@
-# Your First Contribution 
+# Your First Contribution
 
 ## Usernames
 
@@ -9,3 +9,5 @@
 [Moïse](https://github.com/boua-moise)
 
 [Ange](https://github.com/michaelvnge22)
+
+## Licence
