@@ -10,7 +10,6 @@
 
 [Ange](https://github.com/michaelvnge22)
 
-[Ibrahim] (https://github.com/ibrahtra)
-
+[Ibrahim](https://github.com/ibrahtra)
 
 ## Licence
